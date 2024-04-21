@@ -1,7 +1,5 @@
 # Core Java Interview Questions and Answers
 
-This is a Java 17 / Maven / Spring Boot (version 3.2.2) application which is back end API for the Angular application https://github.com/theprogzone/restaurent-decider-ui.
-
 ## 1. What are the OOP concepts and explain them?
 
 * Inheritance - Inherit the parent class attributes and behaviors to the child class using the extend keyword.
